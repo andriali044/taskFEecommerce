@@ -1,0 +1,31 @@
+.product {
+    width: 300px;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 1px 4px rgba(0,0,0, 0.4);
+    margin: 8px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product > img {
+    height: 170px;
+    border-radius: 60px;
+}
+
+/* .product {
+    width: 300px;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+    margin: 8px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .product > img {
+    height: 170px;
+    border-radius: 4px;
+  } */
